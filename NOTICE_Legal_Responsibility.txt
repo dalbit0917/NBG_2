@@ -1,6 +1,6 @@
 # 📜 법적 책임 통지문 (Notice of Legal Responsibility)
 
-작성자: dalbit0917 (suhong3969@gmail.com)
+작성자: dalbit0917 (dalcy.riu.gb.org@gmail.com)
 문서번호: NB-LR-2025-01
 작성일: 2025년 10월 17일
 적용대상: 「숫자야구(Number Baseball)」 프로그램 및 그 파생 저작물 일체
@@ -65,7 +65,7 @@
 ─────────────────────────────────────────────
 제6조 (연락처)
 Author: dalbit0917
-Email: suhong3969@gmail.com
+Email: dalcy.riu.gb.org@gmail.com
 License ID: LicenseRef-EDU-NC-1.0
 Document ID: NB-LR-2025-01
 Date: 2025-10-17
