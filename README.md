@@ -1,7 +1,7 @@
 # 🎮 숫자야구 (Number Baseball)
 
 > ⚾ 교육용 콘솔 게임 예시  
-> Author: **dalbit0917 (suhong3969@gmail.com)**  
+> Author: **dalbit0917 (dalcy.riu.gb.org@gmail.com)**  
 > Version: **2.0**  
 > License: **Educational Non-Commercial Human-Only License (EDU-NC-1.0)**  
 > SPDX-Identifier: `LicenseRef-EDU-NC-1.0`  
@@ -125,6 +125,6 @@ setx DEV_SIG_B64 RGFsY3kuXy4wNg==
 문의 및 사용 허락 관련:
 ```
 Author: dalbit0917  
-Email: suhong3969@gmail.com  
+Email: dalcy.riu.gb.org@gmail.com  
 License ID: LicenseRef-EDU-NC-1.0
 ```
