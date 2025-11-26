@@ -1,7 +1,7 @@
 # LICENSE.txt
 License Name: Educational Non-Commercial Human-Only License (EDU-NC-1.0)
 SPDX Identifier: LicenseRef-EDU-NC-1.0
-Author: dalbit0917 (suhong3969@gmail.com)
+Author: dalbit0917 (dalcy.riu.gb.org@gmail.com)
 Version: 1.1
 Effective Date: October 2025
 
@@ -97,7 +97,7 @@ Redistribution and modification are permitted only within the scope of this Lice
 ─────────────────────────────────────────────
 Contact
 Author: dalbit0917
-Email: suhong3969@gmail.com
+Email: dalcy.riu.gb.org@gmail.com
 License ID: LicenseRef-EDU-NC-1.0
 Version: 1.1
 Date: 2025-10-17
